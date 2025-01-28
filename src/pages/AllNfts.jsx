@@ -64,7 +64,7 @@ const AllNfts = () => {
 
         <div className="mb-8 ">
       <h1 className="text-white font-bold  text-3xl sm:text-4xl md:text-5xl text-center mb-6">
-        <span className='text-red-500'>YOUR</span> <span className='text-purple-500'>NFTs</span> 
+        <span className='text-red-500'>All</span> <span className='text-purple-500'>NFTs</span> 
       </h1>
     </div>
 
